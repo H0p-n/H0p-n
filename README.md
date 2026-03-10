@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @H0p-n
 - 👀 I’m interested in games, sports and ofc coding
-- 🌱 I’m currently learning c/c++ and javaScript
+- 🌱 I’m currently learning c/c++ on stm32 and VHDL on FPGA.
 - 🏫 I'm still in school learning stuff
 - 🇳🇱 Native country can speak 🇳🇱 🇺🇸
